@@ -1,8 +1,5 @@
-# Object Detection process flow
-<ol>
-  <li>Capture images from camera </li>
-  <li>Obtain single image for EO and single for IR </li>
-  <li>Pass single image for object detection </li>
-  <li>Show detection bounding box </li>
-  <li>Use Kalman filter for bounding box creation </li>
-</ol>
+![image](https://github.com/user-attachments/assets/5f35bfe7-2c4d-4e2e-95b5-2f1e308a8f69)
+# Image Manupilations
+1. asdfdf
+2. asdfdf
+3. 
